@@ -1,0 +1,33 @@
+
+#MENUNAV {
+    padding: 0;
+   
+    }
+   
+   
+   #MENUNAV li {
+    display: inline;
+    }
+    #MENUNAV li a:hover {
+        background-color: #04a1a1;
+        
+        }
+        #hoverNAV :hover{
+            background-color: #04a1a1!important;
+        }
+        #hoverNAV div:hover{
+            background-color: #04a1a1!important;
+        }
+
+    #MENUNAV li a {
+       /* border-radius: 1.3rem;*/
+        font-family: Arial;
+        font-size: 11px;
+        border-radius: .9rem;
+        text-decoration: none;
+        float: left;
+        text-align: center;
+        padding: 5px;
+        margin-left: 20px;
+        color: #fff;
+        }
